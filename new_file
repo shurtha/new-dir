@@ -1,4 +1,7 @@
 void main()
 {
 printf("sherutrhx\n");
+int a=10;
+int b=a+3;
+printf("b=%d",a);
 }
